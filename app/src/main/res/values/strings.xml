@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flying_Spirit_Controller</string>
+    <string name="accelerator">Accelerator</string>
+    <string name="direction">Direction</string>
+    <string name="bluetooth">BlueTooth</string>
+</resources>
